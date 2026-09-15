@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://www.10wallpaper.com/wallpaper/1366x768/1304/c_c_code_geass-Cartoon_characters_HD_wallpaper_1366x768.jpg" width="1000" height="450">
 </p>
-# ✨About Me
+<strong>✨About Me</strong>
 <p>💻 11 y/o Web Developer in progress 🚀</p>
 <p>🌐 Learning HTML, CSS & JavaScript</p>
 <p>🔥 Building projects & improving every day</p>
