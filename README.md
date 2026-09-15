@@ -1,11 +1,11 @@
 # 💫About Me :
+<img src="https://images4.alphacoders.com/730/73056.jpg">
 💻 11 y/o Web Developer in progress 🚀
 🌐 Learning HTML, CSS & JavaScript
 🔥 Building projects & improving every day
 🎯 Goal: Become a full-stack developer
 🇺🇦 From Ukraine
 📚 Always learning something new
-<img src="https://images4.alphacoders.com/730/73056.jpg">
 
 ## 🌐Socials
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@l000o0o0o000l) 
