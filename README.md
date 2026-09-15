@@ -10,7 +10,7 @@
 🇺🇦 From Ukraine
 📚 Always learning something new
 
-## 🌐Socials
+## <h1>🌐Socials</h1>
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@l000o0o0o000l) 
 
 # 💻Tech Stack
