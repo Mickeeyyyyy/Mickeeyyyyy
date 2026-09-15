@@ -1,5 +1,5 @@
 # 💫About Me :
-<img src="https://images4.alphacoders.com/730/73056.jpg" width="100" length="300">
+<img src="https://images4.alphacoders.com/730/73056.jpg" width="900" length="300">
 💻 11 y/o Web Developer in progress 🚀
 🌐 Learning HTML, CSS & JavaScript
 🔥 Building projects & improving every day
