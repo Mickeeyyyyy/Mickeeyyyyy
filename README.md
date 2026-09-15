@@ -1,6 +1,6 @@
-# 💫About Me :
+# 💫Hello guys my name is Mickey and im learning web development :
 <p align="center">
-  <img src="https://www.10wallpaper.com/wallpaper/1366x768/1304/c_c_code_geass-Cartoon_characters_HD_wallpaper_1366x768.jpg" width="400">
+  <img src="https://www.10wallpaper.com/wallpaper/1366x768/1304/c_c_code_geass-Cartoon_characters_HD_wallpaper_1366x768.jpg" width="700">
 </p>
 
 💻 11 y/o Web Developer in progress 🚀
