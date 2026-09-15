@@ -3,10 +3,10 @@
   <img src="https://www.10wallpaper.com/wallpaper/1366x768/1304/c_c_code_geass-Cartoon_characters_HD_wallpaper_1366x768.jpg" width="1000" height="450">
 </p>
 # ✨About Me
-💻 11 y/o Web Developer in progress 🚀
-🌐 Learning HTML, CSS & JavaScript
-🔥 Building projects & improving every day
-🎯 Goal: Become a full-stack developer
+<p>💻 11 y/o Web Developer in progress 🚀</p>
+<p>🌐 Learning HTML, CSS & JavaScript</p>
+<p>🔥 Building projects & improving every day</p>
+<p>🎯 Goal: Become a full-stack developer</p>
 🇺🇦 From Ukraine
 📚 Always learning something new
 
