@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> Hi there 👋
 Hi there 👋
-Hi there 👋
-Hi there 👋
 # 💫About Me :
 Web development
 11 y.o
