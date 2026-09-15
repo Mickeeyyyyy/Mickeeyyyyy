@@ -1,5 +1,7 @@
 # 💫About Me :
+<center>
 <img src="https://www.10wallpaper.com/wallpaper/1366x768/1304/c_c_code_geass-Cartoon_characters_HD_wallpaper_1366x768.jpg" width="700" length="400">
+</center>
 💻 11 y/o Web Developer in progress 🚀
 🌐 Learning HTML, CSS & JavaScript
 🔥 Building projects & improving every day
